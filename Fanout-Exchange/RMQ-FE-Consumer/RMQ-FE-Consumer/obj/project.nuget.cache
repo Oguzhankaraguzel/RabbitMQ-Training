@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "720I0t+IgDYvXsigaq0SDLXp6vyaXAifVAChre1ReSYuklRr5uIkzE5qC8JEQTiqoePwBBQr3KnXjWHuQeUl8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OGUZHAN\\Desktop\\yazılım dersler\\GITHUB\\RabbitMQ-Training\\Fanout-Exchange\\RMQ-FE-Consumer\\RMQ-FE-Consumer\\RMQ-FE-Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
