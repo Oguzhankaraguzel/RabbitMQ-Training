@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b937bI5KRsc2IZBDLyaoU67qtEaozoS09GrkdvOJq2aZ6WEcSj5LGD4aGQFDP4nc7lckuUR5Z6etTllqQOEN8w==",
+  "dgSpecHash": "2Cem6oM2LyvQ/4lSOJ0xpc1tR21hplkGnitWIROUP05WtFvl8LLgtxNOQnpwn2gD9hvAx4Ij0PMRR0UC8Q1n6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OGUZHAN\\Desktop\\RabbitMQ_Consumer_Tutorial\\RabbitMQ_Consumer_Tutorial\\RabbitMQ_Consumer_Tutorial.csproj",
+  "projectFilePath": "C:\\Users\\OGUZHAN\\Desktop\\yazılım dersler\\GITHUB\\RabbitMQ-Training\\Introduction\\RabbitMQ_Consumer_Tutorial\\RabbitMQ_Consumer_Tutorial\\RabbitMQ_Consumer_Tutorial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OGUZHAN\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

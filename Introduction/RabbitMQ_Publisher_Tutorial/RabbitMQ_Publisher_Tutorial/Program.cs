@@ -28,7 +28,12 @@ using IModel channel = connection.CreateModel();
 
 // kuyruk oluşturma - Create queue
 
-channel.QueueDeclare(queue: "example-queue", exclusive: false);
+channel.QueueDeclare(
+    queue: "example-queue",
+    exclusive: false,
+    //♣herhangi bir problemde mesajların kalıcılığını sağlamak için // for the message durability
+    durable: true); // Consumer ile birebir aynı yapıda tanımlanmalıdır. It should be defined in the same structure as the Consumer.
+
 
 /*
  * Mesaj gönderme
@@ -42,6 +47,12 @@ channel.QueueDeclare(queue: "example-queue", exclusive: false);
  * 
  */
 
+//♣ mesaj kalıcılığı için // for the message durability
+IBasicProperties properties = channel.CreateBasicProperties();
+properties.Persistent = true;
+
+
+
 //byte[] message = Encoding.UTF8.GetBytes("Hello");
 //channel.BasicPublish(exchange: "", routingKey: "example-queue", body: message);
 
@@ -49,7 +60,12 @@ for (int i = 0; i < 100; i++)
 {
     await Task.Delay(200);
     byte[] message = Encoding.UTF8.GetBytes("Hello " + i);
-    channel.BasicPublish(exchange: "", routingKey: "example-queue", body: message);
+    channel.BasicPublish(
+        exchange: "",
+        routingKey: "example-queue",
+        body: message,
+        /*♣ mesaj kalıcılığı için // for the message durability*/
+        basicProperties: properties);
 }
 
 // !!! exchange:"" => Varsayılan (Default) Exchange => Direct Exchange => routingKey = "Kuyruk ismi (Queue name)"
