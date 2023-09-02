@@ -42,6 +42,8 @@ channel.QueueBind(
     routingKey: string.Empty,
     arguments: new Dictionary<string, object>
     {
+        //varsayılan - default
+        //["x-match"] = "any",
         ["no"] = value
     }
     );
