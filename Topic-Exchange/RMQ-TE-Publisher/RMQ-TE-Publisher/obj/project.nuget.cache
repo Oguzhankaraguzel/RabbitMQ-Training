@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3UiPGKji9svaUNdC6eTI2Ajio5FWMcmkTyt74sgC1LAk5m/SLZzSiOEAASUuwrVRLDg6tnmBV1zTPZSmXdxVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OGUZHAN\\Desktop\\yazılım dersler\\GITHUB\\RabbitMQ-Training\\Topic-Exchange\\RMQ-TE-Publisher\\RMQ-TE-Publisher\\RMQ-TE-Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
