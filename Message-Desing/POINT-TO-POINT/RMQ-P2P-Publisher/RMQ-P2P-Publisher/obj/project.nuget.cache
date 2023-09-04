@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJxv3F+kkeFQ228hpVkSul1fFHUvn9wnryx39iBMfPmEjPmrMWclNqdiVmy0blfHSBVzv6UuYxk/BX/c7XYG1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OGUZHAN\\Desktop\\yazılım dersler\\GITHUB\\RabbitMQ-Training\\Message-Desing\\POINT-TO-POINT\\RMQ-P2P-Publisher\\RMQ-P2P-Publisher\\RMQ-P2P-Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
