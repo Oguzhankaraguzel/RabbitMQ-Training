@@ -1,0 +1,11 @@
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\bin\Debug\net6.0\Shrd.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\bin\Debug\net6.0\Shrd.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\bin\Debug\net6.0\Shrd.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\Shrd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\Shrd.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\Shrd.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\Shrd.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\Shrd.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\refint\Shrd.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\Shrd.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\GITHUB\RabbitMQ-Training\MassTransit-EnterpriseServiceBusFramework\WORKERSERVICE-MASSTRANSIT-EXAMPLE\Shrd\obj\Debug\net6.0\ref\Shrd.dll
